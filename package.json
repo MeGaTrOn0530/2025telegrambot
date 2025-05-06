@@ -1,0 +1,20 @@
+{
+  "name": "diplom",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000d\u0000i\u0000p\u0000l\u0000o\u0000m\u0000\r\u0000 \u0000#\u0000 \u0000a\u0000d\u0000x\u0000a\u0000m\u0000\r\u0000 \u0000",
+  "main": "telegram-bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node telegram-bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "telegraf": "^4.16.3"
+  }
+}
